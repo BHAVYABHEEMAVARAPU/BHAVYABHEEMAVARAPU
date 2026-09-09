@@ -84,3 +84,15 @@ Remote Sensing
 ML Research
 Experimental Systems
 </td> </tr> </table>
+
+
+┌──────────────────────────────────────────────┐
+│                                              │
+│   🤖 Generative AI                           │
+│   🧠 Advanced Deep Learning                 │
+│   👁️ Computer Vision                         │
+│   🛰️ Remote Sensing                          │
+│   🔗 AI Agents                               │
+│   🌐 Production Full-Stack Systems           │
+│                                              │
+└──────────────────────────────────────────────┘
