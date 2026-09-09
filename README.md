@@ -1,37 +1,39 @@
-# 👋 Hi, I'm Bhavya Bheemavarapu
+<div align="center">
 
-### AI/ML Developer | Computer Vision | Full-Stack Developer
+# 👋 Hey, I'm Bhavya
 
-I'm a Computer Science undergraduate passionate about building
-AI-powered systems that solve real-world problems.
+### `AI/ML Engineer` • `Computer Vision` • `Full-Stack Developer`
 
-🔭 Building AI/ML & Computer Vision applications  
-🧠 Interested in Deep Learning, AI Agents & Remote Sensing  
-💻 Full-Stack Development with Python & JavaScript  
-🔬 Research experience in Deep Learning & ML systems  
-🏆 Hackathon & competitive programming enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Computer+Vision+%7C+Deep+Learning+%7C+GenAI;Turning+research+ideas+into+working+systems;Always+building.+Always+learning." />
 
----
+<br>
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-Bhavya-181717?style=for-the-badge&logo=github)](https://github.com/BHAVYABHEEMAVARAPU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavya-bheemavarapu-9bb9672a3/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:bhavya050611@gmail.com)
 
-- 🎓 B.Tech CSE @ Velagapudi Ramakrishna Siddhartha Engineering College
-- 🔬 Research Intern @ IIT Tirupati
-- 👁️ Co-Lead – Computer Vision @ Microsoft Learn Student Community
-- 📄 Researcher in AI-based environmental surveillance
-- 🧩 290+ DSA problems solved
-- ☁️ AWS Certified Cloud Practitioner
+</div>
 
 ---
 
-## 🧠 Areas of Interest
+## 🧠 `whoami`
 
-```text
-Computer Vision
-Deep Learning
-Artificial Intelligence
-Generative AI
-Remote Sensing
-AI Agents
-Machine Learning
-Full-Stack Development
+```python
+class Bhavya:
+
+    role = "AI/ML + Full-Stack Developer"
+
+    education = "B.Tech CSE | CGPA: 8.71/10"
+
+    interests = [
+        "Computer Vision",
+        "Deep Learning",
+        "Generative AI",
+        "AI Agents",
+        "Remote Sensing",
+        "Full-Stack Development"
+    ]
+
+    currently_building = "AI-powered real-world systems"
+
+    philosophy = "Research → Build → Deploy → Improve"
