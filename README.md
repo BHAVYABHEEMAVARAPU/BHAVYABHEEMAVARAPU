@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhavya Bheemavarapu
 
-<!--
-**BHAVYABHEEMAVARAPU/BHAVYABHEEMAVARAPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Developer | Computer Vision | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate passionate about building
+AI-powered systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Building AI/ML & Computer Vision applications  
+🧠 Interested in Deep Learning, AI Agents & Remote Sensing  
+💻 Full-Stack Development with Python & JavaScript  
+🔬 Research experience in Deep Learning & ML systems  
+🏆 Hackathon & competitive programming enthusiast
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE @ Velagapudi Ramakrishna Siddhartha Engineering College
+- 🔬 Research Intern @ IIT Tirupati
+- 👁️ Co-Lead – Computer Vision @ Microsoft Learn Student Community
+- 📄 Researcher in AI-based environmental surveillance
+- 🧩 290+ DSA problems solved
+- ☁️ AWS Certified Cloud Practitioner
+
+---
+
+## 🧠 Areas of Interest
+
+```text
+Computer Vision
+Deep Learning
+Artificial Intelligence
+Generative AI
+Remote Sensing
+AI Agents
+Machine Learning
+Full-Stack Development
