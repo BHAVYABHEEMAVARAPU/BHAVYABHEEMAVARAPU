@@ -37,3 +37,50 @@ class Bhavya:
     currently_building = "AI-powered real-world systems"
 
     philosophy = "Research → Build → Deploy → Improve"
+
+
+
+⚡ What I Do
+<table> <tr> <td width="50%">
+👁️ Computer Vision
+
+Building systems that understand images,
+video and geospatial data.
+
+Object Detection
+Image Classification
+Remote Sensing
+SAR Imagery
+Deep Learning
+</td> <td width="50%">
+🤖 Artificial Intelligence
+
+Turning AI research into usable applications.
+
+Machine Learning
+Generative AI
+AI Agents
+NLP
+Model Deployment
+</td> </tr> <tr> <td width="50%">
+🌐 Full-Stack
+
+Building complete applications instead of
+just models.
+
+React
+Node.js
+Express
+REST APIs
+MongoDB
+</td> <td width="50%">
+🔬 Research
+
+Interested in applying AI to difficult
+real-world problems.
+
+Environmental AI
+Remote Sensing
+ML Research
+Experimental Systems
+</td> </tr> </table>
